@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #2: A playable Street View driving prototype on Saswad Rd | 27 | provisional | https://github.com/topc-social/street-drive-tasks/issues/2 |
+| 2 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #2: A playable Street View driving prototype on Saswad Rd | 2,673 | provisional | https://github.com/kamal0808/street-drive/pull/1 |
